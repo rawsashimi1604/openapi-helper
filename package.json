@@ -1,0 +1,15 @@
+{
+  "name": "openapi-helper",
+  "version": "1.0.0",
+  "description": "This library is used for generating a nice typescript interface to work with for developing with generic Open API Specifications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "openapi-types": "^12.1.3"
+  }
+}

@@ -1,0 +1,6 @@
+# Open Api Specification types library
+
+## Requirements
+
+- It should map open api spec data to a nice typescript interface for development.
+- It should dereference the refs
